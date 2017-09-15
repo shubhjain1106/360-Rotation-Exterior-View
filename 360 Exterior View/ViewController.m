@@ -128,6 +128,8 @@
     NSLog(@"OFFSET -> %lf",scrollDistance);
     NSLog(@"FACTOR -> %lf",scrollStep/SCROLL_STEP_WIDTH);
     NSLog(@"SCROLL");
+    
+    
 }
 
 - (void)didTap:(UITapGestureRecognizer *)sender {
